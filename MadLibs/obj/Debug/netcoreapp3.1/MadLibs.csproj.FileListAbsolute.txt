@@ -1,0 +1,13 @@
+/Users/timsinnott/Projects/MadLibs/MadLibs/bin/Debug/netcoreapp3.1/MadLibs.deps.json
+/Users/timsinnott/Projects/MadLibs/MadLibs/bin/Debug/netcoreapp3.1/MadLibs.runtimeconfig.json
+/Users/timsinnott/Projects/MadLibs/MadLibs/bin/Debug/netcoreapp3.1/MadLibs.runtimeconfig.dev.json
+/Users/timsinnott/Projects/MadLibs/MadLibs/bin/Debug/netcoreapp3.1/MadLibs.dll
+/Users/timsinnott/Projects/MadLibs/MadLibs/bin/Debug/netcoreapp3.1/MadLibs.pdb
+/Users/timsinnott/Projects/MadLibs/MadLibs/obj/Debug/netcoreapp3.1/MadLibs.csproj.AssemblyReference.cache
+/Users/timsinnott/Projects/MadLibs/MadLibs/obj/Debug/netcoreapp3.1/MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timsinnott/Projects/MadLibs/MadLibs/obj/Debug/netcoreapp3.1/MadLibs.AssemblyInfoInputs.cache
+/Users/timsinnott/Projects/MadLibs/MadLibs/obj/Debug/netcoreapp3.1/MadLibs.AssemblyInfo.cs
+/Users/timsinnott/Projects/MadLibs/MadLibs/obj/Debug/netcoreapp3.1/MadLibs.csproj.CoreCompileInputs.cache
+/Users/timsinnott/Projects/MadLibs/MadLibs/obj/Debug/netcoreapp3.1/MadLibs.dll
+/Users/timsinnott/Projects/MadLibs/MadLibs/obj/Debug/netcoreapp3.1/MadLibs.pdb
+/Users/timsinnott/Projects/MadLibs/MadLibs/obj/Debug/netcoreapp3.1/MadLibs.genruntimeconfig.cache
